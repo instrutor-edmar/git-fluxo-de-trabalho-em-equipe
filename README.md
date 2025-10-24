@@ -205,7 +205,7 @@ git push origin feature/minhas-citacoes
 
 
 #### 2. Correção:
-
+--- 
 #### ✅ Project Board + Issues (opcional)
 Vincule PRs às Issues pelo GitHub 
 
@@ -220,12 +220,12 @@ Vincule PRs às Issues pelo GitHub
 Crie as seguintes Issues automáticas:
 
 Issue	Descrição
-Issue 1	Criar arquivos iniciais (AUTORES e Citações)
+Issue 1	Criar arquivos iniciais (AUTORAS e Citações)
 Issue 2	Criar Branch Feature e adicionar commits
 Issue 3	Criar Pull Request para o repositório central
 Issue 4	Sincronizar com upstream e resolver conflitos
 
-
+---
 - No arquivo `citações.txt` procure um erro de pontuação ou formatação em qualquer citação e corrija-o.
 
 - Comite a correção:
