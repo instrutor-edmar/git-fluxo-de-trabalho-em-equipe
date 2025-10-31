@@ -1,0 +1,5 @@
+"citação 1" ("Eu nunca desisto do meu sonho, nem quebro minhas promessas. Porque esse é meu jeito ninja", "Naruto", "Naruto");
+"citação 2" ("Não importa o quanto tente, você sozinho não pode mudar o mundo. Mas este é o lado bonito do mundo.", "Death Note", "L");
+"citação 3" ("Se você não correr riscos, não poderá criar um futuro., "Luffy ", "One Piece");
+"citação 4" ("As pessoas não conseguem vencer a solidão.", "Gaara", "Naruto");
+"citação 5" ("Quando um homem aprende a amar, ele deve correr o risco do ódio.", "Madara Uchiha", "Naruto");
